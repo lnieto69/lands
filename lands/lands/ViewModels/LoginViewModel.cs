@@ -22,6 +22,7 @@ namespace lands.ViewModels
         private bool isRunning;
         private bool isEnable;
         private bool isRemembered;
+        
 
 
         #endregion
